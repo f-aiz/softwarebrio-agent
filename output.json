@@ -1,0 +1,71 @@
+[
+    {
+        "domain": "postman.com",
+        "company_overview": "Postman is an AI-native API platform that enables software engineering teams to design, test, manage, and distribute APIs at enterprise scale. It provides comprehensive tools across the entire API lifecycle, including automated testing, governance, workspaces, and AI workflow integration.",
+        "target_audience": "Software engineers, API developers, DevOps teams, and enterprise technology organizations building and managing APIs.",
+        "contact_points": [
+            "help@postman.com",
+            "info-jp@postman.com",
+            "info@postman.com"
+        ],
+        "leadership": [
+            {
+                "name": "Abhinav Asthana",
+                "role": "CEO & Co-Founder",
+                "linkedin_url": "https://www.linkedin.com/in/abhinavasthana/"
+            },
+            {
+                "name": "Ankit Sobti",
+                "role": "CTO & Co-Founder",
+                "linkedin_url": "https://www.linkedin.com/in/ankit-sobti/"
+            },
+            {
+                "name": "Abhijit Kane",
+                "role": "Co-Founder & Head of Product",
+                "linkedin_url": null
+            }
+        ],
+        "confidence_score": 0.95
+    },
+    {
+        "domain": "supabase.com",
+        "company_overview": "Supabase is an open-source Postgres development platform providing database management, authentication, edge functions, realtime data, storage, and vector embeddings. It enables developers to quickly build application backends and scale to millions of users.",
+        "target_audience": "Software developers, technical founders, startup teams, and enterprise engineering organizations building web and mobile applications.",
+        "contact_points": [
+            "abuse@supabase.com",
+            "help-events@supabase.com",
+            "legal@supabase.com",
+            "privacy@supabase.com",
+            "security@supabase.com"
+        ],
+        "leadership": [
+            {
+                "name": "Tracy Lane",
+                "role": "General Counsel",
+                "linkedin_url": null
+            }
+        ],
+        "confidence_score": 0.85
+    },
+    {
+        "domain": "vapi.ai",
+        "company_overview": "Vapi is a developer-focused Voice AI platform that allows businesses and builders to design, deploy, and scale real-time voice agents. It provides enterprise-grade infrastructure for call orchestration, latency minimization, and seamless integration with existing AI models and telephony providers.",
+        "target_audience": "Developers, product teams, and enterprise organizations seeking to build voice-driven AI agents for customer support, lead qualification, and automated phone operations.",
+        "contact_points": [
+            "support@vapi.ai"
+        ],
+        "leadership": [
+            {
+                "name": "Jordan Dearsley",
+                "role": "Co-founder and CEO",
+                "linkedin_url": null
+            },
+            {
+                "name": "Nikhil Gupta",
+                "role": "Co-founder and CTO",
+                "linkedin_url": "https://www.linkedin.com/in/nikhilro"
+            }
+        ],
+        "confidence_score": 0.85
+    }
+]
